@@ -44,6 +44,6 @@ let books = [
 
   books.forEach(item => 
     // console.log(item.title.toLowerCase())
-    console.log(item.price)
+    console.log(item.priceg)
 
   )
